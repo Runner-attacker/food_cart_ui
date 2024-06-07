@@ -15,5 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Grocery App
-![Image Example](output/s1.png)
+<img src="output/s1.png" alt="Example Image" width="300" height="200">
+<br>
+<img src="output/s2.png" alt="Example Image" width="300" height="200">
+<br>
+<img src="output/s3.png" alt="Example Image" width="300" height="200">
 
